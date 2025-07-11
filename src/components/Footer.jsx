@@ -18,9 +18,8 @@ const Footer = () => {
       <div className="border-t border-gray-600 my-10"></div>
 
       {/* Footer untuk tampilan full screen */}
-      <footer className="hidden sm:flex bg-primary text-gray-400 py-6 px-4 mx-10 sm:py-10 sm:px-10 mt-10 flex-row items-start gap-10 sm:gap-20">
-        {/* Logo dan copyright */}        <div className="flex items-start self-center flex-col">
-          <img src="/src/assets/icon/Logo.svg" alt="CHILL" />
+      <footer className="hidden sm:flex bg-primary text-gray-400 py-6 px-4 mx-10 sm:py-10 sm:px-10 mt-10 flex-row items-start gap-10 sm:gap-20">        {/* Logo dan copyright */}        <div className="flex items-start self-center flex-col">
+          <img src="/assets/icon/Logo.svg" alt="CHILL" />
           <p>@2025 Rayfilm All Rights Reserved.</p>
         </div>
 
@@ -58,9 +57,8 @@ const Footer = () => {
       </footer>
 
       {/* Footer untuk tampilan mobile */}
-      <footer className="sm:hidden bg-primary text-gray-400 pb-6">
-        {/* Logo dan copyright */}        <div className="flex items-start self-center flex-col px-4 mb-10">
-          <img src="/src/assets/icon/Logo.svg" alt="CHILL" />
+      <footer className="sm:hidden bg-primary text-gray-400 pb-6">        {/* Logo dan copyright */}        <div className="flex items-start self-center flex-col px-4 mb-10">
+          <img src="/assets/icon/Logo.svg" alt="CHILL" />
           <p className="">@2025 Rayfilm All Rights Reserved.</p>
         </div>
 

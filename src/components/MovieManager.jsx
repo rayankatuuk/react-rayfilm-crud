@@ -10,7 +10,7 @@ const MovieManager = () => {
     const handleAddMovie = () => {
         const newMovie = {
             title: `Movie ${Date.now()}`,
-            image: "/src/assets/image/Trending-1.png",
+            image: "/assets/image/Trending-1.png",
             rating: 4.5,
             year: 2024,
             genre: "Action",

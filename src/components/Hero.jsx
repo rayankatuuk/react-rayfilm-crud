@@ -1,7 +1,7 @@
-const Hero = () => {
-  return (<section
+const Hero = () => {  return (<section
     className="relative h-[350px] sm:h-[500px] lg:h-[600px] bg-cover bg-center"
-    style={{ backgroundImage: "url('/src/assets/image/Duty After School.png')" }}  >
+    style={{ backgroundImage: "url('/assets/image/Duty After School.png')" }}
+  >
     {/* Overlay */}
     <div className="absolute inset-0 bg-black/10"></div>
 

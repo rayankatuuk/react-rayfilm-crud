@@ -4,7 +4,7 @@ export const initialMoviesData = {
     {
       id: 1,
       title: "Suzume",
-      image: "/src/assets/image/Trending-1.png",
+      image: "/assets/image/Trending-1.png",
       rating: 4.7,
       year: 2023,
       genre: "Animation",
@@ -15,7 +15,7 @@ export const initialMoviesData = {
     {
       id: 2,
       title: "Guardians of the Galaxy Vol. 3",
-      image: "/src/assets/image/Trending-2.png",
+      image: "/assets/image/Trending-2.png",
       rating: 4.5,
       year: 2023,
       genre: "Action",
@@ -26,7 +26,7 @@ export const initialMoviesData = {
     {
       id: 3,
       title: "Spider-Man: Across the Spider-Verse",
-      image: "/src/assets/image/Trending-3.png",
+      image: "/assets/image/Trending-3.png",
       rating: 4.8,
       year: 2023,
       genre: "Animation",
@@ -37,7 +37,7 @@ export const initialMoviesData = {
     {
       id: 4,
       title: "The Little Mermaid",
-      image: "/src/assets/image/Trending-4.png",
+      image: "/assets/image/Trending-4.png",
       rating: 4.2,
       year: 2023,
       genre: "Musical",
@@ -48,7 +48,7 @@ export const initialMoviesData = {
     {
       id: 5,
       title: "Fast X",
-      image: "/src/assets/image/Trending-5.png",
+      image: "/assets/image/Trending-5.png",
       rating: 4.0,
       year: 2023,
       genre: "Action",
@@ -62,7 +62,7 @@ export const initialMoviesData = {
     {
       id: 6,
       title: "Blue Lock",
-      image: "/src/assets/image/top-1.png",
+      image: "/assets/image/top-1.png",
       rating: 4.9,
       year: 2022,
       genre: "Anime",
@@ -74,7 +74,7 @@ export const initialMoviesData = {
     {
       id: 7,
       title: "Ted Lasso",
-      image: "/src/assets/image/top-2.png",
+      image: "/assets/image/top-2.png",
       rating: 4.8,
       year: 2020,
       genre: "Comedy",
@@ -86,7 +86,7 @@ export const initialMoviesData = {
     {
       id: 8,
       title: "Duty After School",
-      image: "/src/assets/image/top-3.png",
+      image: "/assets/image/top-3.png",
       rating: 4.6,
       year: 2023,
       genre: "Drama",
@@ -98,7 +98,7 @@ export const initialMoviesData = {
     {
       id: 9,
       title: "My Hero Academia",
-      image: "/src/assets/image/top-4.png",
+      image: "/assets/image/top-4.png",
       rating: 4.7,
       year: 2016,
       genre: "Anime",
@@ -110,7 +110,7 @@ export const initialMoviesData = {
     {
       id: 10,
       title: "Sonic the Hedgehog 2",
-      image: "/src/assets/image/top-5.png",
+      image: "/assets/image/top-5.png",
       rating: 4.3,
       year: 2022,
       genre: "Adventure",
@@ -125,7 +125,7 @@ export const initialMoviesData = {
     {
       id: 11,
       title: "Don't Look Up",
-      image: "/src/assets/image/dont look up.png",
+      image: "/assets/image/dont look up.png",
       rating: 4.1,
       year: 2021,
       genre: "Comedy",
@@ -137,7 +137,7 @@ export const initialMoviesData = {
     {
       id: 12,
       title: "The Batman",
-      image: "/src/assets/image/carusel 2.png",
+      image: "/assets/image/carusel 2.png",
       rating: 4.2,
       year: 2022,
       genre: "Action",
@@ -149,7 +149,7 @@ export const initialMoviesData = {
     {
       id: 13,
       title: "Blue Lock",
-      image: "/src/assets/image/carusel 3.png",
+      image: "/assets/image/carusel 3.png",
       rating: 4.6,
       year: 2022,
       genre: "Anime",
@@ -161,7 +161,7 @@ export const initialMoviesData = {
     {
       id: 14,
       title: "A Man Called Otto",
-      image: "/src/assets/image/carusel 4.png",
+      image: "/assets/image/carusel 4.png",
       rating: 4.4,
       year: 2022,
       genre: "Drama",

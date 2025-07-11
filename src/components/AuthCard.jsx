@@ -4,11 +4,10 @@ const AuthCard = ({
   children,
   showLogo = true,
   className = ""
-}) => {
-  return (
+}) => {  return (
     <main
       className="h-screen w-screen bg-cover bg-center font-lato"
-      style={{ backgroundImage: "url('./src/assets/image/background login.png')" }}
+      style={{ backgroundImage: "url('/assets/image/background login.png')" }}
     >
       <div className="flex items-center justify-center h-full p-6 sm:p-4 md:p-8">
         <div className={`bg-black/20 backdrop-blur-2xl text-white p-6 sm:p-6 md:p-8 rounded-2xl w-full max-w-md shadow-lg ${className}`}>
